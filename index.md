@@ -1,6 +1,6 @@
 # 好用的VPN推荐，国内仅2款好用(2025年翻墙避坑)
 
-最近更新：`2025年4月06日`
+最近更新：`2025年5月16日`
 
 >**目前在中国能长期稳定地使用、好用的翻墙VPN很少了，网上的搜索结果中大部分都不是很靠谱，不少VPN测评网站上的推荐名单常年不变，而名单中推荐的部分VPN在国内已经无法使用，有些文章内容则是在网上拼凑的，没有一点时效性**。本文根据我自己的实际使用体验，介绍各款翻墙软件VPN近期使用情况，并不时根据最新的使用情况进行更新，供大家参考和排雷。这篇文章是中国安全翻墙攻略的**详细版**，讨论翻墙软件、科学上网和网络安全的相关问题。如果只想快速选个科学上网软件来翻墙，直接选择下方推荐的2款VPN就行了，不过国内用户使用之前建议要把相关的使用信息看完。
 
@@ -24,8 +24,6 @@
 > 
 > - <a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN（优惠活动链接）</a>，这款**在国内综合使用体验不错，速度在我所用过的VPN中最快，面对封锁时的应对也快**，也是我自己最喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新和联系客服使用，**<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">打开ExpressVPN官网</a>需其他梯子**。它设备支持最全面，**iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选**，到今年已经运营了16年，国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它，但也许是因为太出名，是敏感时期被墙针对的频率比本文中其他几款VPN要高一些，这点需要注意。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。**平时建议使用Lightway协议进行连接（Automatic也可以），Lightway协议是Express官方2021年独家研发的最新VPN协议，在国内的连接成功率很高**。敏感时期遇到墙升级，官方推荐的针对中国地区优化的服务器线路可能速度变慢或连不上，如果遇到连接问题，可以切换L2TP协议（电脑端）或IKEV-2协议连接其他非推荐线路，也有部分线路在敏感时期仍然可用，可以作为备用选择，**遇到推荐的服务器线路不能连接，更新版本一般需要2-3个工作日左右，各个系统的客户端更新版本开始陆续推出，注意要更新最新的客户端才能恢复使用推荐的线路**。目前由于政策原因，ExpressVPN的支付宝付款通道被暂停了，优先选择银联卡(国内银行卡)、VISA和MasterCard信用卡和Paypal（查看[购买ExpressVPN的方法](#如何购买expressvpn)）。ExpressVPN的退款政策是有30天的试用期，试用期内不满意可全额退款，退款是按付款方式原路返回。
 > 官网上有ExpressVPN在中国最新使用状态的文章，首先<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">打开ExpressVPN官网相关页面</a>，点击右上角Support，在搜索框输入“Connecting to ExpressVPN in China”进行查找就出来了。
-
-众所周知，目前有点名气的VPN官方网站都被墙了，国内早就无法访问。如果目前没有梯子无法访问VPN官网，可以试试[StrongVPN](#2-strongvpn--性价比最佳)，Strong官网改电脑的host设置本地网络就能访问。
 
 如果想挑选高性价比、符合自己需求的翻墙软件，也可以参考下文推荐的VPN进行对比和选择。
 
@@ -321,7 +319,7 @@ ExpressVPN支持银联、信用卡、Paypal等多种方式付款。付款后，�
 
 [翻墙的安全性](#翻墙的安全性问题--翻墙软件与vpn的区别)尤为重要，前面已经讲过。翻墙还在使用国产浏览器的读者建议赶紧更换（Chrome/Firefox/Edge/Brave/Safari都行），因为国产浏览器可能会留有后门和保存、上传用户的访问记录，建议大家使用官方版本的Chrome浏览器，一定要是在Google官网下载的Chrome安装包进行安装，国内第三方平台下载的可能留有后门。另外，可以设置Split Tunneling，让Chrome浏览器走VPN流量，其他浏览器（比如火狐Firefox）走本地流量，这样可以实现翻墙分流了，访问国内网站也会快不少。
 
-## 2.<a rel="nofollow noopener" href="#如何打开strongvpn官网" target="_blank"> StrongVPN – 性价比最佳</a>
+## 2.<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> StrongVPN – 性价比最佳</a>
 
 [![StrongVPN](https://www.linkv.org/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
@@ -338,24 +336,6 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国Ziff Dav
 另外，**如果遇到大封锁时期，发现线路连接不上的情况，要及时联系在线客服获取最新的连接方法，可以中文沟通（对话框有翻译功能）**。点击网站Help页面右下角的帮助按钮弹出对话框，点击Get in touch，然后点击 “Live Chat”，选择“Technical Support”，输入信息开启聊天。
 
 >**最新提醒**：目前国内能使用V2版本的客户端，也就是官网用户后台直接下载的通用版客户端，协议选择OpenVPN或者IKEV2，在Win/MacOS/Android/iOS系统客户端都能使用，如有任何问题直接在官网的Help页面的在线窗口询问客服。
-
-### 如何打开StrongVPN官网？
-
->购买、下载和安装Strong客户端和使用请详细阅读本文，避免后续使用出现问题。
-
-有梯子的同学直接**可访问<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网（独家优惠）</a>**，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service...”而不能购买（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。
-
-**国内本地网络访问方法**：Strong官网在中国被墙，国内打开官网需要改电脑Host文件，因为其官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
-
-改电脑Host文件方法很简单，国内Windows/Mac用户可以直接下载hosts文件解锁官网，手机用户建议在电脑上打开本页面操作，因为手机由于系统权限原因改host操作较麻烦，下面是操作步骤：
-
-1.下载hosts文件： <a rel="nofollow noopener" href="https://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键另存为)。
-
-2.Windows用户将下载的hosts文件移动到文件夹，路径是`C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
-
-3.完成之后清空浏览器缓存、刷新或重启浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> 点击获取StrongVPN独家优惠</a>。
-
-完成之后，就可以正常访问官网了。购买后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)，另外，**官网有如何在中国使用StrongVPN的中文版详细帖子：（<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">打开StrongVPN官网</a>，点击右上角Help，搜索 “在中国境内如何下载，安装以及使用StrongVPN”）**。
 
 ### 支付宝如何购买StrongVPN？
 
@@ -456,14 +436,6 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国Ziff Dav
 >Please enable V1 account for me because I am in China.
 >
 >Hello,I live in China.I am using legacy V1 app but cannot login,the V2 app doesn't work for me in China.
-
-**下载地址：（需先联系客服，见上文）**
-
-<a rel="nofollow noopener" href="https://mirror3.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">Windows精简版客户端V1 app</a>
-
-Mac精简版<a rel="nofollow noopener" href="https://mirror3.reliablehosting.com/mac/StrongVPN_Mac-latest.dmg" target="_blank">V1 app下载地址</a>
-
-安卓精简版<a rel="nofollow noopener" href="https://mirror3.reliablehosting.com/android/1.7.0.apk" target="_blank">下载地址</a>
 
 下载安装APP客户端、联系客服开通OpenVPN账户权限后，打开输入用户名密码登录就可以使用了，如果仍有登陆问题，请联系客服说明问题。
 
